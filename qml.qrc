@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/menu3.png</file>
+        <file>Accountpage.qml</file>
+    </qresource>
+    <qresource prefix="/figure"/>
+</RCC>
